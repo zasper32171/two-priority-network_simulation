@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1516264062 source:c:\users\wmnlab\minsimulatesp\src\simulator.cpp
+	"Simulator.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<assert.h>
+	<vector>
+
+1516264067 c:\users\wmnlab\minsimulatesp\include\simulator.h
+	<stdio.h>
+
+1516263309 source:c:\users\wmnlab\minsimulatesp\sp.cpp
+	"Simulator.h"
+	<stdio.h>
+	<time.h>
+	<sstream>
+
+1516285512 source:c:\users\wmnlab\desktop\minsimulatesp\src\simulator.cpp
+	"Simulator.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<assert.h>
+	<vector>
+
+1516264067 c:\users\wmnlab\desktop\minsimulatesp\include\simulator.h
+	<stdio.h>
+
+1524397078 source:c:\users\wmnlab\desktop\class\network planning and management\minsimulatesp\src\simulator.cpp
+	"Simulator.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<assert.h>
+	<vector>
+
+1516264067 c:\users\wmnlab\desktop\class\network planning and management\minsimulatesp\include\simulator.h
+	<stdio.h>
+
+1524397357 source:c:\users\wmnlab\desktop\class\network planning and management\minsimulatesp\sp.cpp
+	"Simulator.h"
+	<stdio.h>
+	<stdlib.h>
+
