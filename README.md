@@ -8,7 +8,11 @@ in which a switching fabric architecture that natively supports a dual-priority 
 
 ## System Architecture
 
-<img src="images/architecture.jpg" alt="result" width="640">
+<div align="center">
+  <img src="images/architecture.jpg" alt="result" width="320" />
+</div>
+
+<br/>
 
 In the proposed scheme, each SE has two transmission queues per link, with one queue dedicated to high priority packets and the other dedicated to low priority ones.
 
@@ -22,9 +26,9 @@ The performance of the proposed scheme was evaluated through simu- lation experi
 
 In the below figures, on the left are the simulation results in the original work, on the right are the simulation results of ours.
 
-<img src="images/result1.jpg" alt="result1" width="640">
-<img src="images/result2.jpg" alt="result2" width="640">
-<img src="images/result3.jpg" alt="result3" width="640">
-<img src="images/result4.jpg" alt="result4" width="640">
-<img src="images/result5.jpg" alt="result5" width="640">
-<img src="images/result6.jpg" alt="result6" width="640">
+<img src="images/result1.jpg" alt="result1" width="320" />
+<img src="images/result2.jpg" alt="result2" width="320" />
+<img src="images/result3.jpg" alt="result3" width="320" />
+<img src="images/result4.jpg" alt="result4" width="320" />
+<img src="images/result5.jpg" alt="result5" width="320" />
+<img src="images/result6.jpg" alt="result6" width="320" />
